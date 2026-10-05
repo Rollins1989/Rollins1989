@@ -19,6 +19,11 @@ jobs:
             dist/github-snake.svg?color_snake=%234c1d95&color_dots=%23f5f3ff,%23ddd6fe,%23c4b5fd,%23a78bfa,%238b5cf6
             dist/github-snake-dark.svg?color_snake=%23a78bfa&color_dots=%234c1d95,%235b21b6,%236d28d9,%238b5cf6,%23a78bfa
 
+      - name: Slow down snake animation
+        run: |
+          sed -i 's/20700ms/41400ms/g' dist/github-snake.svg
+          sed -i 's/20700ms/41400ms/g' dist/github-snake-dark.svg
+
       - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
