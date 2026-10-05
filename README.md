@@ -15,6 +15,10 @@
 <img src="https://img.shields.io/github/followers/Rollins1989?style=for-the-badge&logo=github&label=FOLLOWERS&color=7c3aed&labelColor=1e1b4b" alt="Followers" />
 <img src="https://img.shields.io/github/stars/Rollins1989?style=for-the-badge&logo=starship&label=STARS&color=7c3aed&labelColor=1e1b4b" alt="Stars" />
 
+<br/><br/>
+
+<img src="./assets/ticker.svg" width="100%" alt="Technology ticker" />
+
 <img src="./assets/divider.svg" width="100%" alt="" />
 
 <img src="./assets/title-about.svg" width="100%" alt="About" />
@@ -46,6 +50,16 @@ My work sits where <b>AI/ML, computational biology and full stack engineering</b
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
+<img src="./assets/title-numbers.svg" width="100%" alt="By the Numbers" />
+
+<br/>
+
+<img src="./assets/numbers.svg" width="100%" alt="By the numbers" />
+
+<br/>
+
+<img src="./assets/divider.svg" width="100%" alt="" />
+
 <img src="./assets/title-stack.svg" width="100%" alt="Tech Stack" />
 
 <br/>
@@ -62,11 +76,19 @@ My work sits where <b>AI/ML, computational biology and full stack engineering</b
 **Cloud, DevOps and Tooling**<br/>
 <img src="https://skillicons.dev/icons?i=docker,githubactions,git,github,linux,aws,vscode&theme=dark" alt="Cloud, DevOps and Tooling" />
 
+<br/><br/>
+
+<img src="./assets/orbit.svg" width="100%" alt="Orbiting technology stack" />
+
 <br/>
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
 <img src="./assets/title-expertise.svg" width="100%" alt="AI / ML Expertise" />
+
+<br/>
+
+<img src="./assets/radar.svg" width="100%" alt="Skill radar" />
 
 <br/>
 
@@ -85,7 +107,7 @@ My work sits where <b>AI/ML, computational biology and full stack engineering</b
 <img src="./assets/title-build.svg" width="100%" alt="How I Build" />
 
 ```mermaid
-%%{init: {'theme':'base','themeVariables':{'primaryColor':'#4c1d95','primaryTextColor':'#ffffff','primaryBorderColor':'#a78bfa','lineColor':'#a78bfa','secondaryColor':'#312e81','tertiaryColor':'#1e1b4b','fontFamily':'monospace'}}}%%
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#4c1d95','primaryTextColor':'#ffffff','primaryBorderColor':'#a78bfa','lineColor':'#a78bfa','secondaryColor':'#312e81','tertiaryColor':'#1e1b4b'}}}%%
 flowchart LR
     A[Frame the problem] --> B[Design validation first]
     B --> C[Build the pipeline]
@@ -218,6 +240,22 @@ flowchart LR
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
+<img src="./assets/title-more.svg" width="100%" alt="More Projects" />
+
+<br/>
+
+<table>
+<tr><td align="center"><a href="https://github.com/Rollins1989/RecoFlow"><img src="./assets/mini-1.svg" width="100%" alt="RecoFlow" /></a></td><td align="center"><a href="https://github.com/Rollins1989/fieldnote-chat"><img src="./assets/mini-2.svg" width="100%" alt="fieldnote-chat" /></a></td></tr>
+<tr><td align="center"><a href="https://github.com/Rollins1989/devops-triage-agent"><img src="./assets/mini-3.svg" width="100%" alt="devops-triage-agent" /></a></td><td align="center"><a href="https://github.com/Rollins1989/TaskFlow-API"><img src="./assets/mini-4.svg" width="100%" alt="TaskFlow-API" /></a></td></tr>
+<tr><td align="center"><a href="https://github.com/Rollins1989/Customer-Intelligence-Engine"><img src="./assets/mini-5.svg" width="100%" alt="Customer-Intelligence-Engine" /></a></td><td align="center"><a href="https://github.com/Rollins1989/Research-Funding-Opportunity-Intelligence"><img src="./assets/mini-6.svg" width="100%" alt="Research-Funding-Opportunity-Intelligence" /></a></td></tr>
+<tr><td align="center"><a href="https://github.com/Rollins1989/Executive-Assistant-Business-Dashboard"><img src="./assets/mini-7.svg" width="100%" alt="Executive-Assistant-Business-Dashboard" /></a></td><td align="center"><a href="https://github.com/Rollins1989/telegram-utility-bot"><img src="./assets/mini-8.svg" width="100%" alt="telegram-utility-bot" /></a></td></tr>
+<tr><td align="center"><a href="https://github.com/Rollins1989/teyvat-tales"><img src="./assets/mini-9.svg" width="100%" alt="teyvat-tales" /></a></td><td align="center"><a href="https://github.com/Rollins1989/Data-Analytics-Portfolio"><img src="./assets/mini-10.svg" width="100%" alt="Data-Analytics-Portfolio" /></a></td></tr>
+</table>
+
+<br/>
+
+<img src="./assets/divider.svg" width="100%" alt="" />
+
 <img src="./assets/title-analytics.svg" width="100%" alt="GitHub Analytics" />
 
 <br/>
@@ -259,6 +297,8 @@ flowchart LR
 <img src="./assets/title-connect.svg" width="100%" alt="Connect" />
 
 <br/>
+
+<a href="mailto:ck1320511@gmail.com"><img src="./assets/cta.svg" width="100%" alt="Let's build something intelligent together" /></a>
 
 <a href="mailto:ck1320511@gmail.com"><img src="https://img.shields.io/badge/Gmail-6d28d9?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 <a href="https://www.linkedin.com/in/kuldeepchauhan1221"><img src="https://img.shields.io/badge/LinkedIn-4338ca?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>

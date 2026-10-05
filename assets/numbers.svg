@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="190" viewBox="0 0 1000 190" role="img" aria-label="By the numbers">
+<defs><linearGradient id="rg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#c4b5fd"/><stop offset="1" stop-color="#7c3aed"/></linearGradient><linearGradient id="cb" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0d0b1f"/><stop offset="1" stop-color="#1b1442"/></linearGradient></defs>
+<g transform="translate(0,0)"><rect x="2" y="6" width="236" height="178" rx="22" fill="url(#cb)" stroke="#4c1d95" stroke-width="1.5"/>
+<g transform="translate(120,76) rotate(-90)">
+<circle r="38" fill="none" stroke="#2e1065" stroke-width="8"/>
+<circle r="38" fill="none" stroke="url(#rg)" stroke-width="8" stroke-linecap="round" stroke-dasharray="238.8" stroke-dashoffset="238.8"><animate attributeName="stroke-dashoffset" from="238.8" to="52.5" dur="1.8s" begin="0.0s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines=".2 .8 .2 1"/></circle></g>
+<text x="120" y="88" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="28" font-weight="800" fill="#f5f3ff">15</text>
+<text x="120" y="142" text-anchor="middle" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="12" letter-spacing="2" fill="#c4b5fd">REPOSITORIES</text>
+<text x="120" y="162" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="12" fill="#94a3b8">built and shipped</text></g>
+<g transform="translate(250,0)"><rect x="2" y="6" width="236" height="178" rx="22" fill="url(#cb)" stroke="#4c1d95" stroke-width="1.5"/>
+<g transform="translate(120,76) rotate(-90)">
+<circle r="38" fill="none" stroke="#2e1065" stroke-width="8"/>
+<circle r="38" fill="none" stroke="url(#rg)" stroke-width="8" stroke-linecap="round" stroke-dasharray="238.8" stroke-dashoffset="238.8"><animate attributeName="stroke-dashoffset" from="238.8" to="90.7" dur="1.8s" begin="0.25s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines=".2 .8 .2 1"/></circle></g>
+<text x="120" y="88" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="28" font-weight="800" fill="#f5f3ff">5</text>
+<text x="120" y="142" text-anchor="middle" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="12" letter-spacing="2" fill="#c4b5fd">FLAGSHIP SYSTEMS</text>
+<text x="120" y="162" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="12" fill="#94a3b8">documented end to end</text></g>
+<g transform="translate(500,0)"><rect x="2" y="6" width="236" height="178" rx="22" fill="url(#cb)" stroke="#4c1d95" stroke-width="1.5"/>
+<g transform="translate(120,76) rotate(-90)">
+<circle r="38" fill="none" stroke="#2e1065" stroke-width="8"/>
+<circle r="38" fill="none" stroke="url(#rg)" stroke-width="8" stroke-linecap="round" stroke-dasharray="238.8" stroke-dashoffset="238.8"><animate attributeName="stroke-dashoffset" from="238.8" to="38.2" dur="1.8s" begin="0.5s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines=".2 .8 .2 1"/></circle></g>
+<text x="120" y="88" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="28" font-weight="800" fill="#f5f3ff">4</text>
+<text x="120" y="142" text-anchor="middle" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="12" letter-spacing="2" fill="#c4b5fd">DOMAINS</text>
+<text x="120" y="162" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="12" fill="#94a3b8">bio, chem, imaging, LLM</text></g>
+<g transform="translate(750,0)"><rect x="2" y="6" width="236" height="178" rx="22" fill="url(#cb)" stroke="#4c1d95" stroke-width="1.5"/>
+<g transform="translate(120,76) rotate(-90)">
+<circle r="38" fill="none" stroke="#2e1065" stroke-width="8"/>
+<circle r="38" fill="none" stroke="url(#rg)" stroke-width="8" stroke-linecap="round" stroke-dasharray="238.8" stroke-dashoffset="238.8"><animate attributeName="stroke-dashoffset" from="238.8" to="71.6" dur="1.8s" begin="0.75s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines=".2 .8 .2 1"/></circle></g>
+<text x="120" y="88" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="28" font-weight="800" fill="#f5f3ff">6+</text>
+<text x="120" y="142" text-anchor="middle" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="12" letter-spacing="2" fill="#c4b5fd">CI-BACKED REPOS</text>
+<text x="120" y="162" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="12" fill="#94a3b8">tests on every push</text></g>
+</svg>

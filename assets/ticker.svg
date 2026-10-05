@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="46" viewBox="0 0 1000 46" role="presentation">
+<defs><linearGradient id="fl" x1="0" x2="1"><stop offset="0" stop-color="#0d0b1f"/><stop offset="1" stop-color="#0d0b1f" stop-opacity="0"/></linearGradient><linearGradient id="fr" x1="1" x2="0"><stop offset="0" stop-color="#0d0b1f"/><stop offset="1" stop-color="#0d0b1f" stop-opacity="0"/></linearGradient></defs>
+<rect width="1000" height="46" rx="14" fill="#0d0b1f"/><rect x="1" y="1" width="998" height="44" rx="13" fill="none" stroke="#4c1d95" stroke-width="1.5"/>
+<g><animateTransform attributeName="transform" type="translate" from="0 0" to="-2361 0" dur="38s" repeatCount="indefinite"/>
+<text x="0" y="29" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="13" letter-spacing="2" fill="#c4b5fd" textLength="2361" lengthAdjust="spacing" xml:space="preserve">PYTHON   ◆   PYTORCH   ◆   SCIKIT-LEARN   ◆   RDKIT   ◆   FASTAPI   ◆   DOCKER   ◆   POSTGRESQL   ◆   SNAKEMAKE   ◆   MLFLOW   ◆   RAG   ◆   LLM EVALUATION   ◆   METAGENOMICS   ◆   DRUG DISCOVERY   ◆   GRAD-CAM   ◆   CI/CD   ◆   MCP AGENTS   ◆   </text>
+<text x="2361" y="29" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="13" letter-spacing="2" fill="#c4b5fd" textLength="2361" lengthAdjust="spacing" xml:space="preserve">PYTHON   ◆   PYTORCH   ◆   SCIKIT-LEARN   ◆   RDKIT   ◆   FASTAPI   ◆   DOCKER   ◆   POSTGRESQL   ◆   SNAKEMAKE   ◆   MLFLOW   ◆   RAG   ◆   LLM EVALUATION   ◆   METAGENOMICS   ◆   DRUG DISCOVERY   ◆   GRAD-CAM   ◆   CI/CD   ◆   MCP AGENTS   ◆   </text></g>
+<rect x="2" y="2" width="90" height="42" rx="12" fill="url(#fl)"/><rect x="908" y="2" width="90" height="42" rx="12" fill="url(#fr)"/>
+</svg>
