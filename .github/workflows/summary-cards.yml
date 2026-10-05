@@ -5,6 +5,11 @@ on:
     - cron: "0 2 * * *"
   workflow_dispatch:
 
+# Prevent this workflow from pushing to main at the same time as the 3D workflow.
+concurrency:
+  group: profile-main-writers
+  cancel-in-progress: false
+
 jobs:
   build:
     runs-on: ubuntu-latest
