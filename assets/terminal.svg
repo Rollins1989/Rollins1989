@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="334" viewBox="0 0 1000 334" role="img" aria-label="Animated terminal introducing Kuldeep Chauhan">
+<defs><clipPath id="wc"><rect width="1000" height="334" rx="16"/></clipPath>
+<clipPath id="t0"><rect x="30" y="58" height="26" width="0"><animate attributeName="width" values="0;0;78;78;0" keyTimes="0;0.0333;0.0517;.97;1" dur="18.0s" repeatCount="indefinite"/></rect></clipPath>
+<clipPath id="t1"><rect x="30" y="84" height="26" width="0"><animate attributeName="width" values="0;0;546;546;0" keyTimes="0;0.0711;0.1311;.97;1" dur="18.0s" repeatCount="indefinite"/></rect></clipPath>
+<clipPath id="t2"><rect x="30" y="110" height="26" width="0"><animate attributeName="width" values="0;0;141;141;0" keyTimes="0;0.1700;0.2097;.97;1" dur="18.0s" repeatCount="indefinite"/></rect></clipPath>
+<clipPath id="t3"><rect x="30" y="136" height="26" width="0"><animate attributeName="width" values="0;0;519;519;0" keyTimes="0;0.2292;0.2862;.97;1" dur="18.0s" repeatCount="indefinite"/></rect></clipPath>
+<clipPath id="t4"><rect x="30" y="162" height="26" width="0"><animate attributeName="width" values="0;0;132;132;0" keyTimes="0;0.3251;0.3617;.97;1" dur="18.0s" repeatCount="indefinite"/></rect></clipPath>
+<clipPath id="t5"><rect x="30" y="188" height="26" width="0"><animate attributeName="width" values="0;0;528;528;0" keyTimes="0;0.3812;0.4392;.97;1" dur="18.0s" repeatCount="indefinite"/></rect></clipPath>
+<clipPath id="t6"><rect x="30" y="214" height="26" width="0"><animate attributeName="width" values="0;0;204;204;0" keyTimes="0;0.4781;0.5392;.97;1" dur="18.0s" repeatCount="indefinite"/></rect></clipPath>
+<clipPath id="t7"><rect x="30" y="240" height="26" width="0"><animate attributeName="width" values="0;0;357;357;0" keyTimes="0;0.5586;0.5976;.97;1" dur="18.0s" repeatCount="indefinite"/></rect></clipPath>
+</defs>
+<rect width="1000" height="334" rx="16" fill="#0d0b1f"/><rect x="1" y="1" width="998" height="332" rx="15" fill="none" stroke="#4c1d95" stroke-width="1.5"/>
+<g clip-path="url(#wc)"><rect width="1000" height="40" fill="#1b1442"/></g>
+<circle cx="28" cy="20" r="6.5" fill="#c4b5fd"/>
+<circle cx="50" cy="20" r="6.5" fill="#a78bfa"/>
+<circle cx="72" cy="20" r="6.5" fill="#7c3aed"/>
+<text x="500" y="25" text-anchor="middle" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="13" fill="#94a3b8">kuldeep@lab: ~/profile</text>
+<g clip-path="url(#t0)"><text x="32" y="78" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="15" xml:space="preserve"><tspan fill="#a78bfa">$ </tspan><tspan fill="#f5f3ff">whoami</tspan></text></g>
+<g clip-path="url(#t1)"><text x="32" y="104" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="15" xml:space="preserve"><tspan fill="#c4b5fd">kuldeep-chauhan  |  ai/ml engineer  |  computational biology</tspan></text></g>
+<g clip-path="url(#t2)"><text x="32" y="130" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="15" xml:space="preserve"><tspan fill="#a78bfa">$ </tspan><tspan fill="#f5f3ff">cat stack.txt</tspan></text></g>
+<g clip-path="url(#t3)"><text x="32" y="156" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="15" xml:space="preserve"><tspan fill="#c4b5fd">python  pytorch  scikit-learn  fastapi  docker  snakemake</tspan></text></g>
+<g clip-path="url(#t4)"><text x="32" y="182" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="15" xml:space="preserve"><tspan fill="#a78bfa">$ </tspan><tspan fill="#f5f3ff">ls projects/</tspan></text></g>
+<g clip-path="url(#t5)"><text x="32" y="208" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="15" xml:space="preserve"><tspan fill="#c4b5fd">ibd-microbiome  drugai-lite  medvision  sentinel  calllens</tspan></text></g>
+<g clip-path="url(#t6)"><text x="32" y="234" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="15" xml:space="preserve"><tspan fill="#a78bfa">$ </tspan><tspan fill="#f5f3ff">git log --oneline -1</tspan></text></g>
+<g clip-path="url(#t7)"><text x="32" y="260" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="15" xml:space="preserve"><tspan fill="#c4b5fd">feat: keep building intelligent systems</tspan></text></g>
+<g opacity="0"><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.6365;0.6375;.97;1" dur="18.0s" repeatCount="indefinite"/><text x="32" y="286" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="15" fill="#a78bfa">$</text><rect x="50" y="273" width="9" height="17" fill="#a78bfa"><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;.5;.5;1" dur="1s" repeatCount="indefinite"/></rect></g>
+</svg>

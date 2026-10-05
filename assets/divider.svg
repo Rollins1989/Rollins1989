@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="16" viewBox="0 0 1000 16" role="presentation">
+<defs><linearGradient id="l" x1="0" x2="1"><stop offset="0" stop-color="#7c3aed" stop-opacity="0"/><stop offset=".5" stop-color="#a78bfa"/><stop offset="1" stop-color="#7c3aed" stop-opacity="0"/></linearGradient>
+<filter id="g" x="-200%" y="-200%" width="500%" height="500%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<rect x="20" y="7" width="960" height="2" rx="1" fill="url(#l)"/>
+<circle cy="8" r="4" fill="#ede9fe" filter="url(#g)"><animate attributeName="cx" values="60;940;60" dur="7s" repeatCount="indefinite"/></circle>
+<rect x="494" y="3" width="10" height="10" fill="#a78bfa" transform="rotate(45 499 8)"><animate attributeName="opacity" values="1;.35;1" dur="2.4s" repeatCount="indefinite"/></rect>
+</svg>
